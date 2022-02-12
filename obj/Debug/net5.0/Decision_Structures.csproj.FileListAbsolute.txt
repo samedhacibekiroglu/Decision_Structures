@@ -1,0 +1,16 @@
+C:\Users\samed\Desktop\Kodluyoruz\Decision_Structures\obj\Debug\net5.0\Decision_Structures.csproj.AssemblyReference.cache
+C:\Users\samed\Desktop\Kodluyoruz\Decision_Structures\obj\Debug\net5.0\Decision_Structures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samed\Desktop\Kodluyoruz\Decision_Structures\obj\Debug\net5.0\Decision_Structures.AssemblyInfoInputs.cache
+C:\Users\samed\Desktop\Kodluyoruz\Decision_Structures\obj\Debug\net5.0\Decision_Structures.AssemblyInfo.cs
+C:\Users\samed\Desktop\Kodluyoruz\Decision_Structures\obj\Debug\net5.0\Decision_Structures.csproj.CoreCompileInputs.cache
+C:\Users\samed\Desktop\Kodluyoruz\Decision_Structures\bin\Debug\net5.0\Decision_Structures.exe
+C:\Users\samed\Desktop\Kodluyoruz\Decision_Structures\bin\Debug\net5.0\Decision_Structures.deps.json
+C:\Users\samed\Desktop\Kodluyoruz\Decision_Structures\bin\Debug\net5.0\Decision_Structures.runtimeconfig.json
+C:\Users\samed\Desktop\Kodluyoruz\Decision_Structures\bin\Debug\net5.0\Decision_Structures.runtimeconfig.dev.json
+C:\Users\samed\Desktop\Kodluyoruz\Decision_Structures\bin\Debug\net5.0\Decision_Structures.dll
+C:\Users\samed\Desktop\Kodluyoruz\Decision_Structures\bin\Debug\net5.0\ref\Decision_Structures.dll
+C:\Users\samed\Desktop\Kodluyoruz\Decision_Structures\bin\Debug\net5.0\Decision_Structures.pdb
+C:\Users\samed\Desktop\Kodluyoruz\Decision_Structures\obj\Debug\net5.0\Decision_Structures.dll
+C:\Users\samed\Desktop\Kodluyoruz\Decision_Structures\obj\Debug\net5.0\ref\Decision_Structures.dll
+C:\Users\samed\Desktop\Kodluyoruz\Decision_Structures\obj\Debug\net5.0\Decision_Structures.pdb
+C:\Users\samed\Desktop\Kodluyoruz\Decision_Structures\obj\Debug\net5.0\Decision_Structures.genruntimeconfig.cache
